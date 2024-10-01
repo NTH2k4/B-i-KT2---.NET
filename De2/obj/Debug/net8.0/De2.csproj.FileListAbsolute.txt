@@ -1,0 +1,14 @@
+D:\CS\Solution-Test-2\De2\bin\Debug\net8.0\De2.exe
+D:\CS\Solution-Test-2\De2\bin\Debug\net8.0\De2.deps.json
+D:\CS\Solution-Test-2\De2\bin\Debug\net8.0\De2.runtimeconfig.json
+D:\CS\Solution-Test-2\De2\bin\Debug\net8.0\De2.dll
+D:\CS\Solution-Test-2\De2\bin\Debug\net8.0\De2.pdb
+D:\CS\Solution-Test-2\De2\obj\Debug\net8.0\De2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\Solution-Test-2\De2\obj\Debug\net8.0\De2.AssemblyInfoInputs.cache
+D:\CS\Solution-Test-2\De2\obj\Debug\net8.0\De2.AssemblyInfo.cs
+D:\CS\Solution-Test-2\De2\obj\Debug\net8.0\De2.csproj.CoreCompileInputs.cache
+D:\CS\Solution-Test-2\De2\obj\Debug\net8.0\De2.dll
+D:\CS\Solution-Test-2\De2\obj\Debug\net8.0\refint\De2.dll
+D:\CS\Solution-Test-2\De2\obj\Debug\net8.0\De2.pdb
+D:\CS\Solution-Test-2\De2\obj\Debug\net8.0\De2.genruntimeconfig.cache
+D:\CS\Solution-Test-2\De2\obj\Debug\net8.0\ref\De2.dll

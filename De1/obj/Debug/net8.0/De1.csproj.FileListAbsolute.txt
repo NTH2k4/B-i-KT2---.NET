@@ -1,0 +1,14 @@
+D:\CS\Solution-Test-2\De1\bin\Debug\net8.0\De1.exe
+D:\CS\Solution-Test-2\De1\bin\Debug\net8.0\De1.deps.json
+D:\CS\Solution-Test-2\De1\bin\Debug\net8.0\De1.runtimeconfig.json
+D:\CS\Solution-Test-2\De1\bin\Debug\net8.0\De1.dll
+D:\CS\Solution-Test-2\De1\bin\Debug\net8.0\De1.pdb
+D:\CS\Solution-Test-2\De1\obj\Debug\net8.0\De1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\Solution-Test-2\De1\obj\Debug\net8.0\De1.AssemblyInfoInputs.cache
+D:\CS\Solution-Test-2\De1\obj\Debug\net8.0\De1.AssemblyInfo.cs
+D:\CS\Solution-Test-2\De1\obj\Debug\net8.0\De1.csproj.CoreCompileInputs.cache
+D:\CS\Solution-Test-2\De1\obj\Debug\net8.0\De1.dll
+D:\CS\Solution-Test-2\De1\obj\Debug\net8.0\refint\De1.dll
+D:\CS\Solution-Test-2\De1\obj\Debug\net8.0\De1.pdb
+D:\CS\Solution-Test-2\De1\obj\Debug\net8.0\De1.genruntimeconfig.cache
+D:\CS\Solution-Test-2\De1\obj\Debug\net8.0\ref\De1.dll
