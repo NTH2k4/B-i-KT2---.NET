@@ -1,0 +1,15 @@
+D:\CS\Solution-Test-2\De21\bin\Debug\net8.0\De21.exe
+D:\CS\Solution-Test-2\De21\bin\Debug\net8.0\De21.deps.json
+D:\CS\Solution-Test-2\De21\bin\Debug\net8.0\De21.runtimeconfig.json
+D:\CS\Solution-Test-2\De21\bin\Debug\net8.0\De21.dll
+D:\CS\Solution-Test-2\De21\bin\Debug\net8.0\De21.pdb
+D:\CS\Solution-Test-2\De21\obj\Debug\net8.0\De21.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\Solution-Test-2\De21\obj\Debug\net8.0\De21.AssemblyInfoInputs.cache
+D:\CS\Solution-Test-2\De21\obj\Debug\net8.0\De21.AssemblyInfo.cs
+D:\CS\Solution-Test-2\De21\obj\Debug\net8.0\De21.csproj.CoreCompileInputs.cache
+D:\CS\Solution-Test-2\De21\obj\Debug\net8.0\De21.sourcelink.json
+D:\CS\Solution-Test-2\De21\obj\Debug\net8.0\De21.dll
+D:\CS\Solution-Test-2\De21\obj\Debug\net8.0\refint\De21.dll
+D:\CS\Solution-Test-2\De21\obj\Debug\net8.0\De21.pdb
+D:\CS\Solution-Test-2\De21\obj\Debug\net8.0\De21.genruntimeconfig.cache
+D:\CS\Solution-Test-2\De21\obj\Debug\net8.0\ref\De21.dll

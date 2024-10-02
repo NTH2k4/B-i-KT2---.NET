@@ -1,0 +1,15 @@
+D:\CS\Solution-Test-2\De24\bin\Debug\net8.0\De24.exe
+D:\CS\Solution-Test-2\De24\bin\Debug\net8.0\De24.deps.json
+D:\CS\Solution-Test-2\De24\bin\Debug\net8.0\De24.runtimeconfig.json
+D:\CS\Solution-Test-2\De24\bin\Debug\net8.0\De24.dll
+D:\CS\Solution-Test-2\De24\bin\Debug\net8.0\De24.pdb
+D:\CS\Solution-Test-2\De24\obj\Debug\net8.0\De24.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\Solution-Test-2\De24\obj\Debug\net8.0\De24.AssemblyInfoInputs.cache
+D:\CS\Solution-Test-2\De24\obj\Debug\net8.0\De24.AssemblyInfo.cs
+D:\CS\Solution-Test-2\De24\obj\Debug\net8.0\De24.csproj.CoreCompileInputs.cache
+D:\CS\Solution-Test-2\De24\obj\Debug\net8.0\De24.sourcelink.json
+D:\CS\Solution-Test-2\De24\obj\Debug\net8.0\De24.dll
+D:\CS\Solution-Test-2\De24\obj\Debug\net8.0\refint\De24.dll
+D:\CS\Solution-Test-2\De24\obj\Debug\net8.0\De24.pdb
+D:\CS\Solution-Test-2\De24\obj\Debug\net8.0\De24.genruntimeconfig.cache
+D:\CS\Solution-Test-2\De24\obj\Debug\net8.0\ref\De24.dll
